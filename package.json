@@ -37,7 +37,7 @@
     "postcss-loader": "^6.2.1",
     "rtlcss": "^4.0.0",
     "rtlcss-webpack-plugin": "^4.0.7",
-    "sass": "^1.57.1",
+    "sass": "^1.59.2",
     "sass-loader": "^12.4.0",
     "tablesorter": "^2.31.3",
     "tracekit": "0.4.6",
