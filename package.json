@@ -34,7 +34,7 @@
     "ol": "6.15.1",
     "postcss": "^8.4.20",
     "postcss-cli": "^10.1.0",
-    "postcss-loader": "^6.2.1",
+    "postcss-loader": "^7.1.0",
     "rtlcss": "^4.0.0",
     "rtlcss-webpack-plugin": "^4.0.7",
     "sass": "^1.57.1",
